@@ -39,9 +39,9 @@
 
 ![](./assets/plus.jpg)
 3. 按照下图提示，填写Repository name和Description。
-   ![](./assets/创建github_io.jpg)
+![](./assets/创建github_io.jpg)
 4. 点击Create repository，之后会进入你的repository的首页，显示如下，其中README.md的内容就是在你的网站上展示的内容：
-   ![](./assets/仓库首页.png)
+![](./assets/仓库首页.png)
 5. 等待20分钟左右之后，打开浏览器，在网址中输入https://yourusername.github.io/，将yourusername替换成你的用户名，即可看到自己的网站了，示例如下。
 
 <img src="./assets/first_commit.jpg" style="zoom:100%;" />
@@ -51,16 +51,16 @@
 通过选择github page自带的主题，可以让网站更酷炫一些
 
 1. 在Repository页面的右上角点击setting，如下图所示。
-   <img src="./assets/chose_setting.jpg" style="zoom:100%;" />
+<img src="./assets/chose_setting.jpg" style="zoom:100%;" />
 
 2. 下拉页面到Github Pages，选择chose theme，如下图所示。
-   <img src="./assets/chose-theam.jpg" style="zoom:100%;" />
+<img src="./assets/chose-theam.jpg" style="zoom:100%;" />
 
 3. 在跳出的页面中，点击某个主题后，页面会显示该主题的预览效果，选择喜欢的一个主题之后，选择select a theme，如下图所示：
-   <img src="./assets/选择任一主题.jpg" style="zoom:100%;" />
+<img src="./assets/选择任一主题.jpg" style="zoom:100%;" />
 
 4. 在跳出的页面中，github会自动修改readme文件内容，你可以选择手动对其进行修改，也可以选择cancel先默认使用它提供的readme内容。我们为了增加对比效果将他提供的readme文件内容改为了刚创建时的readme，提交后我们的网站就变成下面这个样子了，是不是酷炫了不少：
-   <img src="./assets/after_chose_theme.jpg" style="zoom:100%;" />
+<img src="./assets/after_chose_theme.jpg" style="zoom:100%;" />
 
 ### 3. 修改readme
 
