@@ -19,7 +19,7 @@
 
 3. markdown
 
-   * 这是一个文档格式生成器，利用它，即使是一个没有任何设计细胞的人（比如我），也可以设计出很好的布局来。
+   * 这是一个文档格式生成器，利用它，即使是一个没有任何设计细胞的人（比如我），也可以设计出很好的布局来。推荐使用Typora。
    * 学习这个工具，你还可以体验一把高级编程的经历。
    * [这是李骏老师编写的markdown简明入门(视频版)](https://www.bilibili.com/video/av75225128/)，对markdown不熟悉的同学，强烈建议学习下。
 
@@ -38,11 +38,11 @@
 1. 在页面右上角，点击+下拉菜单，选择**New repository**。
 
 ![](./assets/plus.jpg)
-3. 按照下图提示，填写Repository name和Description。
+2. 按照下图提示，填写Repository name和Description。
 ![](./assets/创建github_io.jpg)
-4. 点击Create repository，之后会进入你的repository的首页，显示如下，其中README.md的内容就是在你的网站上展示的内容：
+3. 点击Create repository，之后会进入你的repository的首页，显示如下，其中README.md的内容就是在你的网站上展示的内容：
 ![](./assets/仓库首页.png)
-5. 等待20分钟左右之后，打开浏览器，在网址中输入https://yourusername.github.io/，将yourusername替换成你的用户名，即可看到自己的网站了，示例如下。
+4. 等待20分钟左右之后，打开浏览器，在网址中输入https://yourusername.github.io/，将yourusername替换成你的用户名，即可看到自己的网站了，示例如下。
 
 <img src="./assets/first_commit.jpg" style="zoom:100%;" />
 
@@ -51,7 +51,7 @@
 通过选择github page自带的主题，可以让网站更酷炫一些
 
 1. 在Repository页面的右上角点击setting，如下图所示。
-<img src="./assets/chose_setting.jpg" style="zoom:100%;" />
+<img src="https://github.com/erdongchendou/erdongchendou.github.io/blob/master/assets/assets/chose_setting.jpg" style="zoom:100%;" />
 
 2. 下拉页面到Github Pages，选择chose theme，如下图所示。
 <img src="./assets/chose-theam.jpg" style="zoom:100%;" />
@@ -66,3 +66,9 @@
 
 以上部分就是创建一个网站的步骤了，但是如果想让自己的网站真的有意义，那就需要修改reademe文件了，将github代码库clone到本地，在本地修改readme文件后，提交修改到github，你就可以创建真正有意义的属于自己的网站了。下图是我对readme文件进行修改后展示的效果，也就是以上创建网站的步骤。
 ![](./assets/修改readme增加主题.jpg)
+
+
+> 有任何疑问可以留言或者添加我的mixin询问我，我的mixin id是37340008.
+> 笑来老师定投践行群的邀请码: AmYtcrfUCzfK6p8L5bjnHS、ZtNua7RJMYbzrAbu5rtwiV、JQHjd9VW5oTxxmbQwJ8TTd。
+
+[lego](lego_robot_education.md)
