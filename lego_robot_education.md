@@ -72,13 +72,13 @@
 
  据我所知，国内的线下机器人培训机构价格很贵，每年的费用高达几万元，但是质量高低不齐。而我们自己想在家里教孩子，可比教英语、教数学，甚至教画画、书法、音乐难的多，因为我们大部分人从小都没有接受过这样的教育。
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/BDcu2rMySicriaKLAeC7ptSPV3SxAB9lDp0BlTd3bJmvOrDNbD5o6LoN2BUvQTiaguPFhrrLC9RElY8WlXULUAia9A/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./assets/lego1.png)
 
 那要怎么学呢？机器人是学什么呢？哪个机构好呢？孩子想在家里玩，该选什么教具呢？
 
 最近，我发现了一款性价比极很高，孩子能自己学，父母和孩子还能一起玩，玩上好几个月的机器人线上课程——**《学乐硅谷机器人》（售价899元，包括24节视频课、1077个科技件积木的教具、500套图纸，还有机器人等级考试训练题；如果不会搭建，有老师辅导），**根据公开数据，已有近1万家庭加入学习。 
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/BDcu2rMySicriaKLAeC7ptSPV3SxAB9lDptdJVmBdh3mkO7MAibUIr6z981VC2ibic27PhtARNQ6IvibVicNsHX5K8mug/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./assets/lego2.png)
 
 系统的机器人教育体系
 
@@ -86,7 +86,7 @@
 
 基础机械结构，是机器人发挥作用的关键！
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/BDcu2rMySicriaKLAeC7ptSPV3SxAB9lDpH7bwgkibOJo4rGC8wGUmicZXPTjUwCxFHYtAptuh4tL4TjePLMG1dQfg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./assets/lego3.png)
 
 学乐机器人就是据此设计的，由美国乐高认证讲师和国内知名机器人教育机构教研负责人带队研发，包含4节课前准备课和20节动画视频讲解课，有一定基础或者零基础的孩子都可以无障碍学习。
 
@@ -124,7 +124,7 @@
 
 从第三部分开始，课程加入了电机和电池盒，包含经典的机械动力原理部分，是机器人考级二级的要求：电机的应用、剪叉结构、四驱系统、连杆传动、二级齿轮加减速、能量守恒定律等。
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/BDcu2rMySicriaKLAeC7ptSPV3SxAB9lDpIRPlLjYAhQy1dxbFslOX7H0pTwLQzS3ia0PADcesV0tbrgug0yKsjdQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1) 
+![img](./assets/lego4.png) 
 
 五级：综合知识类搭建
 
@@ -134,7 +134,7 @@
 
 首先，太空训练器也叫三维滚环，它能在三维空间同时垂直和水平旋转，那什么结构能达到这样的效果呢？齿轮的垂直传动，第二课,打蛋器里就有相似的结构。
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/BDcu2rMySicriaKLAeC7ptSPV3SxAB9lDpR8CJ4MTBBDox79kpmFvWVUlg35k0AQlODNtaehlPS9ZMg1QYuFKzwA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
+![img](./assets/lego5.png)
 
 运用齿轮垂直传动的知识，孩子自己动手搭建太空训练器模型，然后学习模型中蕴含的机械和科学知识，枯燥的知识就在有趣的动手实践过程中学会了。
 
@@ -144,7 +144,7 @@
 
  通过学习获取金币，小程序里还能兑换500套免费图纸，孩子能玩好几年：
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/BDcu2rMySicriaKLAeC7ptSPV3SxAB9lDpmedWGhJ82VoV7RosDLunTGUGIre0ic7AvRhOW9aQOge41Lbe87ZwxVw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./assets/lego6.png)
 
  **超值积木套装免费送**课程附赠包含1077个科技件积木的配套教具，积木与乐高积木是完全兼容的，安全性、功能性都很好。
 
